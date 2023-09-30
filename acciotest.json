@@ -1,0 +1,4 @@
+{
+    "testRepo": "Roman-Numeral-Converter-Solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
